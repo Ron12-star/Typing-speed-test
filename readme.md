@@ -1,7 +1,4 @@
 
-
-### ✅ `README.md`
-
 ```markdown
 # ⌨️ Typing Speed Test Game
 
